@@ -721,7 +721,7 @@ operators require the argument to be in a specific JSON format.
 |               |             |            | the Perl Compatible Regular       |
 |               |             |            | Expression (PCRE) library. For    |
 |               |             |            | more information about what is    |
-|               |             |            | implemented, see the see the      |
+|               |             |            | implemented, see the              |
 |               |             |            | `Erlang Regular Expression        |
 |               |             |            | <http://erlang.org/doc            |
 |               |             |            | /man/re.html>`_                   |
